@@ -24,7 +24,7 @@
     "require": {
         "php": "^7.4 || ^8.0",
         "ext-json": "*",
-        "doctrine/annotations": "1.14.3",
+        "doctrine/annotations": "2.0.1",
         "doctrine/orm": "^2.15",
         "monolog/monolog": "^2.9",
         "php-di/php-di": "^6.4",
